@@ -49,7 +49,7 @@ This system uses semantic similarity scoring to truly understand the context of 
 
 ## Deployment
 
-Live Application Link: 
+Live Application Link: https://p2resumescreening-pgzcxsifa6s6sgtmtxm958.streamlit.app/
 
 
 ## Demo Video
