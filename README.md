@@ -52,12 +52,6 @@ This system uses semantic similarity scoring to truly understand the context of 
 Live Application Link: https://p2resumescreening-pgzcxsifa6s6sgtmtxm958.streamlit.app/
 
 
-## Demo Video
-
-Watch the full demo here:  
-(Add your Google Drive or YouTube link here)
-
-
 
 ## Author
 
